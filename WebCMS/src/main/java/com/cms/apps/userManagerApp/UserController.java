@@ -1,6 +1,6 @@
 package com.cms.apps.userManagerApp;
 
-import com.cms.dao.entities.UserEntity;
+import com.cms.persistence.entities.UserEntity;
 import com.cms.utility.JspPathConstants;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
