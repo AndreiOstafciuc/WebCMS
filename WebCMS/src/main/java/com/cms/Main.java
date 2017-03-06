@@ -11,7 +11,7 @@ import java.util.List;
  * Created by andre on 03/06/17.
  */
 public class Main {
-    private static final String APPLICATION_CONTEXT_PATH="file:D:/Faculty/POS/CMS/Git/WebCMS/WebCMS/target/web-cms/WEB-INF/rest-servlet.xml";
+    private static final String APPLICATION_CONTEXT_PATH="file:D:/Faculty/POS/CMS/Git/WebCMS/WebCMS/target/web-cms/WEB-INF/spring-servlet.xml";
 
     private static UserService userService;
 
